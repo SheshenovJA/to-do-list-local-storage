@@ -1,0 +1,50 @@
+body {
+  background: #042029;
+  font-family: Arial;
+  color: #EAE3CB;
+}
+#main-container{
+  margin: 0 auto;
+  width: 300px;
+  height: 200px;
+  border: 2px solid #9CD9FF;
+  border-radius:  10px 10px  0px 0px;
+}
+#main-container h2 {
+  font-size: 2em;
+  color: #A57706;
+  margin: 0 55px;
+}
+#new-case-i {
+  margin: 40px;
+  width: 220px;
+  height: 25px;
+}
+#new-case-btn{
+  margin: 0 100px;
+  background-color: #0064a2;
+  border: 0.5px solid #fff;
+  border-radius: 5px;
+  color: #fafafa;
+  width: 100px;
+  height: 30px;
+}
+#case-list{
+
+  list-style: none;
+  display: inline;
+}
+
+#case-list li {
+    margin: 5px;
+    border: 1px solid #9CD9FF;
+}
+#main-container h3 {
+    text-align: center;
+}
+.remove{
+  margin-right: 50px;
+  background-color: transparent;
+  color: white;
+  border: 1px solid white;
+}
